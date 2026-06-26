@@ -12,7 +12,7 @@
 
 ## Overview
 
-When working on Android / Gradle-based projects, the `build` directory can accumulate a large amount of disk space over time. **Clear Disk** scans a given root directory, locates every project that contains a `build` folder, displays its size, and lets you batch-delete the ones you no longer need — all through a simple graphical interface.
+When working on Android / Gradle-based / Flutter projects, the `build` directory can accumulate a large amount of disk space over time. **Clear Disk** scans a given root directory, locates every project that contains a `build` folder, displays its size, and lets you batch-delete the ones you no longer need — all through a simple graphical interface.
 
 ## Features
 
